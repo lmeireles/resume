@@ -17,15 +17,6 @@ Telefone: (11)98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
 
 **Outros:** Mobile (Android Studio, Cordova, Ionic2), Desenvolvimento de Jogos (Unity, AS3), Design Patterns, Gerenciamento de Projetos.
 
-**PHP** 
-Desenvolvimento de sites e aplicações web (com enfoque em alta performance baseado em web 2.0). Utilizando CMS (WordPress, Pyro, Joomla e Drupal), E-commerce (Magento e Woocommerce), Frameworks (Yii2, CodeIgniter, CakePHP, Phalcon e Zend Framework) e EAD (Moodle). 
-
-**JAVA** 
-Desenvolvimento de aplicações Java para desktop e aplicativos mobile (para Android), com integração a serviços restful e redes sociais. 
-
-**APLICATIVOS HÍBRIDOS** 
-Criação de Apps híbridos utilizando AngularJS, Cordova e Ionic framework.  
-
 ##FORMAÇÃO
 
  - Bacharelado em Ciência da Computação – UNINOVE Concluído em Dezembro de 2014 
