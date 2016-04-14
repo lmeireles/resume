@@ -1,7 +1,7 @@
 #Luís Carlos Meireles
 
-Brasileiro, solteiro <br/>
-Data de nascimento: 13/05/1993<br/>
+Brasileiro, Solteiro <br/>
+22 Anos<br/>
 Vila Maria Alta – São Paulo – SP<br/>
 Telefone: (11)98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
 
