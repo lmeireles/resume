@@ -34,6 +34,9 @@ Telefone: (11)98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
  **Outubro/2011 – Novembro/2013 – PRODAM:** Estagiário</br>
  **Atividades:** Axuliar instrutores em sala de aula na ministração de cursos na área de TI e auxiliar na manutenção do sistema EAD.  
 
+ **Atividades como Freelancer**</br>
+ Desenvilvimento de Aplicativos Moblile, Aplicações e Sistemas Web utilizando diversas tecnologias como .NET (MVC), PHP (Yii2, CodeIgniter), JAVA, Ruby on Rails, WooCommerce, Magento, Ionic, Agular, dentre outras tecnologias do mercado.
+
 ## INFORMAÇÕES ADICIONAIS
 
  - **Iniciação Científica:** Pesquisa utilizando inteligência artificial para prever possíveis doenças no coração do paciente.
