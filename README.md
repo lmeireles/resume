@@ -1,9 +1,9 @@
 #Luís Carlos Meireles
 
-Brasileiro, solteiro 
-Data de nascimento: 13/05/1993
-Vila Maria Alta – São Paulo – SP
-Telefone: (11)98706-6688 / E-mail: luis.lc93@hotmail.com
+Brasileiro, solteiro <br/>
+Data de nascimento: 13/05/1993<br/>
+Vila Maria Alta – São Paulo – SP<br/>
+Telefone: (11)98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
 
 ##RESUMO PROFISSIONAL
 
@@ -16,13 +16,6 @@ Telefone: (11)98706-6688 / E-mail: luis.lc93@hotmail.com
 **Controle de Versão:** Git (github e bitbucket), SVN.
 
 **Outros:** Mobile (Android Studio, Cordova, Ionic2), Desenvolvimento de Jogos (Unity, AS3), Design Patterns, Gerenciamento de Projetos.
-
-
-Desenvolvimento web utilizando HTML5, CSS3 (pré-processadores Sass, LESS), JavaScript, Angular, jQuery, Ajax, sistemas de gerenciamento de pacotes como Grunt, Bower e Composer, utilizando sistemas de controle de versão como GIT e SVN. <br/>
-
-Programação OO focada em: MVC, DAO/ActiveRecord, caching, autenticação e RBAC (role-based access control), escalonamento, design patterns , integração com serviços Restful e SOAP. <br/>
-
-
 
 **PHP** 
 Desenvolvimento de sites e aplicações web (com enfoque em alta performance baseado em web 2.0). Utilizando CMS (WordPress, Pyro, Joomla e Drupal), E-commerce (Magento e Woocommerce), Frameworks (Yii2, CodeIgniter, CakePHP, Phalcon e Zend Framework) e EAD (Moodle). 
