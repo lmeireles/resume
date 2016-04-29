@@ -39,7 +39,7 @@ Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobb
  **Atividades:** Axuliar instrutores em sala de aula na ministração de cursos na área de TI e auxiliar na manutenção do sistema EAD.  
 
  **Atividades como Freelancer**</br>
- Desenvilvimento de Aplicativos Moblile, Aplicações e Sistemas Web utilizando diversas tecnologias como .NET (MVC), PHP (Yii2, CodeIgniter), JAVA, Ruby on Rails, WooCommerce, Magento, Ionic, Agular, dentre outras tecnologias do mercado.
+ Desenvilvimento de Aplicativos Moblile, Aplicações e Sistemas Web utilizando diversas tecnologias como C# .NET (MVC), PHP (Yii2, CodeIgniter), JAVA, Ruby on Rails, WooCommerce, Magento, Ionic, Agular, dentre outras tecnologias do mercado.
 
 ## INFORMAÇÕES ADICIONAIS
 
