@@ -36,10 +36,10 @@ Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobb
  **Atividades:** Análise, arquitetura, desenvolvimento e manutenção de sites e aplicações utilizando PHP, JavaScript, jQuery, CSS3, HTML5, Wordpress, Yii2, CodeIgniter e criação de Aplicativos mobile utilizando JAVA (Android) e Cordova (Multiplataforma).
   
  **Outubro/2011 – Novembro/2013 – PRODAM:** Estagiário</br>
- **Atividades:** Axuliar instrutores em sala de aula na ministração de cursos na área de TI e auxiliar na manutenção do sistema EAD.  
+ **Atividades:** Auxiliar instrutores em sala de aula na ministração de cursos na área de TI e auxiliar na manutenção do sistema EAD.
 
  **Atividades como Freelancer - desde 2009: **</br>
- Desenvilvimento de Aplicativos Moblile, Aplicações e Sistemas Web utilizando diversas tecnologias como C# .NET (MVC), PHP (Yii2, CodeIgniter), JAVA, Ruby on Rails, WooCommerce, Magento, Ionic, Agular, dentre outras tecnologias do mercado.
+ Desenvolvimento de Aplicativos Mobile, Aplicações e Sistemas Web utilizando diversas tecnologias como C# .NET (MVC), PHP (Yii2, CodeIgniter), JAVA, Ruby on Rails, WooCommerce, Magento, Ionic, Agular, dentre outras tecnologias do mercado.
 
 ## INFORMAÇÕES ADICIONAIS
 
