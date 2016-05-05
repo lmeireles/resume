@@ -8,10 +8,10 @@ Telefone: (11)98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
 ##RESUMO PROFISSIONAL
 
 Profissional interessado em novas tecnologias e sempre aberto para mudanças e novidades. Gosta de procurar maneiras novas para solucionar para problemas e tem interesse na criação de produtos que possam impactar a sociedade de maneira positiva.<br />
-Sempre a procura de crescimento e equipes sinergéticas que permitam compartilhar e receber conhecimento, ama ensinar e repassar oque aprende por isso já lecionou por algum tempo. 
+Sempre a procura de crescimento e equipes sinergéticas que permitam compartilhar e receber conhecimento, ama ensinar e repassar o que aprende por isso já lecionou por algum tempo. 
 Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobbys.
 
-**Back-End:** .Net (Asp.Net MVC 4 and 5), Ruby (Rails), desenvolvimento e consumo de webservices(REST e SOAP).
+**Back-End:** PHP, .Net (Asp.Net MVC 4 and 5), Ruby (Rails), desenvolvimento e consumo de webservices(REST e SOAP).
 
 **Front-End:** HTML5, CSS3 (pré-processadores Sass, LESS), Bootstrap(3 e 4), JavaScript, Angular, jQuery, Ajax, KnockoutJs.
 
@@ -33,12 +33,12 @@ Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobb
  **Atividades:** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo com base em .NET, Oracle, KnockoutJs, Unity3D, webservices dentre outros.
 
  **Dezembro/2013 – Dezembro/2015 – Agência Engine:** Analista Programador</br>
- **Atividades:** Análise, arquitetura e manutenção de sites e aplicações utilizando PHP, JavaScript, jQuery, CSS3, HTML5, Wordpress, Yii2, CodeIgniter e criação de Aplicativos mobile utilizando JAVA (Android) e Cordova (Multiplataforma).
+ **Atividades:** Análise, arquitetura, desenvolvimento e manutenção de sites e aplicações utilizando PHP, JavaScript, jQuery, CSS3, HTML5, Wordpress, Yii2, CodeIgniter e criação de Aplicativos mobile utilizando JAVA (Android) e Cordova (Multiplataforma).
   
  **Outubro/2011 – Novembro/2013 – PRODAM:** Estagiário</br>
  **Atividades:** Axuliar instrutores em sala de aula na ministração de cursos na área de TI e auxiliar na manutenção do sistema EAD.  
 
- **Atividades como Freelancer**</br>
+ **Atividades como Freelancer - desde 2009: **</br>
  Desenvilvimento de Aplicativos Moblile, Aplicações e Sistemas Web utilizando diversas tecnologias como C# .NET (MVC), PHP (Yii2, CodeIgniter), JAVA, Ruby on Rails, WooCommerce, Magento, Ionic, Agular, dentre outras tecnologias do mercado.
 
 ## INFORMAÇÕES ADICIONAIS
