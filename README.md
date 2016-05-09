@@ -13,7 +13,7 @@ Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobb
 
 **Back-End:** PHP, .Net (Asp.Net MVC 4 and 5), Ruby (Rails), desenvolvimento e consumo de webservices(REST e SOAP).
 
-**Front-End:** HTML5, CSS3 (pré-processadores Sass, LESS), Bootstrap(3 e 4), JavaScript, Angular, jQuery, Ajax, KnockoutJs.
+**Front-End:** SEO, HTML5, CSS3 (pré-processadores Sass, LESS), Bootstrap(3 e 4), JavaScript, Angular, jQuery, Ajax, KnockoutJs.
 
 **Banco de Dados:** Microsoft Sql Server, Oracle, MySql.
 
@@ -38,7 +38,7 @@ Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobb
  **Outubro/2011 – Novembro/2013 – PRODAM:** Estagiário</br>
  **Atividades:** Auxiliar instrutores em sala de aula na ministração de cursos na área de TI e auxiliar na manutenção do sistema EAD.
 
- **Atividades como Freelancer - desde 2009: **</br>
+ **Atividades como Freelancer - desde 2009:**</br>
  Desenvolvimento de Aplicativos Mobile, Aplicações e Sistemas Web utilizando diversas tecnologias como C# .NET (MVC), PHP (Yii2, CodeIgniter), JAVA, Ruby on Rails, WooCommerce, Magento, Ionic, Agular, dentre outras tecnologias do mercado.
 
 ## INFORMAÇÕES ADICIONAIS
