@@ -9,7 +9,7 @@ Telefone: (11)98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
 
 Profissional interessado em novas tecnologias e sempre aberto para mudanças e novidades. Gosta de procurar maneiras novas para solucionar para problemas e tem interesse na criação de produtos que possam impactar a sociedade de maneira positiva.<br />
 Sempre a procura de crescimento e equipes sinergéticas que permitam compartilhar e receber conhecimento, ama ensinar e repassar o que aprende por isso já lecionou por algum tempo. 
-Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobbys.
+Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobbies.
 
 **Back-End:** PHP, .Net (Asp.Net MVC 4 and 5), Ruby (Rails), desenvolvimento e consumo de webservices(REST e SOAP).
 
