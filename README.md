@@ -33,7 +33,7 @@ Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobb
 
 ##QUALIFICAÇÕES E ATIVIDADES PROFISSIONAIS 
 
- **Junho/2016 - Atualmente - Mooven:** Desenvolvedor (Full Stack)</br>
+ **Junho/2016 - Atualmente - MoovenConsulting:** Desenvolvedor (Full Stack)</br>
  **Atividades:** Análise, arquitetura, desenvolvimento e manutenção de aplicativos Mobile, sites e aplicações utilizando PHP, JavaScript, jQuery, CSS3, HTML5, Wordpress, Yii2, CodeIgniter, JAVA (Android) e Cordova (Multiplataforma).
 
  **Janeiro/2016 - Junho/2016 - G&P:** Desenvolvedor</br>
