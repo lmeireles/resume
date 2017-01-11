@@ -8,7 +8,7 @@ Telefone: (11) 98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
 ##RESUMO PROFISSIONAL
 
 Profissional interessado em novas tecnologias e sempre aberto para mudanças e novidades. Gosta de procurar maneiras novas para solucionar problemas e tem interesse na criação de produtos que possam impactar a sociedade de maneira positiva.<br />
-Sempre a procura de crescimento e equipes sinergéticas que permitam compartilhar e receber conhecimento, ama ensinar e repassar o que aprende por isso já lecionou por algum tempo. 
+Sempre à procura de crescimento e equipes sinergéticas que permitam compartilhar e receber conhecimento; ama ensinar e repassar o que aprende, por isso já lecionou por algum tempo. 
 Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobbies.
 
 **Back-End:** PHP (Yii2, Codeigniter, Wordpress), .Net (Asp.Net MVC 4 e 5), Ruby (Rails), desenvolvimento e consumo de webservices(REST e SOAP).
@@ -46,7 +46,7 @@ Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobb
  **Atividades:** Auxiliar instrutores em sala de aula na ministração de cursos na área de TI e auxiliar na manutenção do sistema EAD.
 
  **Atividades como Freelancer - desde 2009:**</br>
- Desenvolvimento de Aplicativos Mobile, Aplicações e Sistemas Web utilizando diversas tecnologias como C# .NET (MVC), PHP (Yii2, CodeIgniter), JAVA, Ruby on Rails, WooCommerce, Magento, Ioni2, Agular2, dentre outras tecnologias do mercado.
+ Desenvolvimento de Aplicativos Mobile, Aplicações e Sistemas Web utilizando diversas tecnologias como C# .NET (MVC), PHP (Yii2, CodeIgniter, Wordpress), JAVA, Ruby on Rails, WooCommerce, Magento, Ioni2, Agular2, dentre outras tecnologias do mercado.
 
 ## INFORMAÇÕES ADICIONAIS
 
