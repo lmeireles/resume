@@ -13,13 +13,13 @@ Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobb
 
 **Back-End:** PHP (Yii2, Codeigniter, Wordpress), .Net (Asp.Net MVC 4 e 5), Ruby (Rails), desenvolvimento e consumo de webservices(REST e SOAP).
 
-**Front-End:** SEO, HTML5, CSS3 (pré-processadores Sass, LESS), Bootstrap(3 e 4), JavaScript, Angular(1 e 2), jQuery, Ajax, KnockoutJs.
+**Front-End:** Angular(1 e 2), SEO, HTML5, CSS3 (pré-processadores Sass, LESS), Bootstrap(3 e 4), JavaScript, jQuery, Ajax, KnockoutJs.
 
 **Banco de Dados:** Microsoft Sql Server, Oracle, MySql, MariaDb, MongoDb.
 
-**Controle de Versão:** Git (github e bitbucket), SVN.
+**Controle de Versão:** Git, SVN.
 
-**Mobile:** Android Studio (JAVA), Cordova, Ionic (1 e 2), jQuery Mobile. 
+**Mobile:** Android Nativo, Ionic (1 e 2), Cordova, jQuery Mobile. 
 
 **Jogos:** Unity, AS3.
 
@@ -46,7 +46,7 @@ Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobb
  **Atividades:** Auxiliar instrutores em sala de aula na ministração de cursos na área de TI e auxiliar na manutenção do sistema EAD.
 
  **Atividades como Freelancer - desde 2009:**</br>
- Desenvolvimento de Aplicativos Mobile, Aplicações e Sistemas Web utilizando diversas tecnologias como C# .NET (MVC), PHP (Yii2, CodeIgniter, Wordpress), JAVA, Ruby on Rails, WooCommerce, Magento, Ioni2, Agular2, dentre outras tecnologias do mercado.
+ Desenvolvimento de Aplicativos Mobile, Aplicações e Sistemas Web utilizando diversas tecnologias como C# .NET (MVC), PHP (Yii2, Wordpress), JAVA, Ruby on Rails, WooCommerce, Magento, Ioni2, Agular2, dentre outras tecnologias do mercado.
 
 ## INFORMAÇÕES ADICIONAIS
 
