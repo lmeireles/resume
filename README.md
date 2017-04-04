@@ -11,19 +11,19 @@ Profissional interessado em novas tecnologias e sempre aberto para mudanças e n
 Sempre à procura de crescimento e equipes sinergéticas que permitam compartilhar e receber conhecimento; ama ensinar e repassar o que aprende, por isso já lecionou por algum tempo. 
 Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobbies.
 
-**Back-End:** PHP (Yii2, Codeigniter, Wordpress), .Net (Asp.Net MVC 4 e 5), Ruby (Rails), desenvolvimento e consumo de webservices(REST e SOAP).
+**Back-End:** PHP (Yii2, Codeigniter, Wordpress), .Net (Asp.Net, MVC), Ruby (Rails), desenvolvimento e consumo de webservices(REST e SOAP).
 
-**Front-End:** Angular(1 e 2), SEO, HTML5, CSS3 (pré-processadores Sass, LESS), Bootstrap(3 e 4), JavaScript, jQuery, Ajax, KnockoutJs.
+**Front-End:** JavaScript (React, AngularJS 1, Angular2 e 4 , jQuery, Ajax, KnockoutJs), HTML5, CSS3 (pré-processadores Sass, LESS), Bootstrap(3 e 4), SEO.
 
-**Banco de Dados:** Microsoft Sql Server, Oracle, MySql, MariaDb, MongoDb.
+**Banco de Dados:** MySql, MariaDb, Microsoft Sql Server, Oracle, MongoDb.
 
 **Controle de Versão:** Git, SVN.
 
-**Mobile:** Android Nativo, Ionic (1 e 2), Cordova, jQuery Mobile. 
+**Mobile:** Android Nativo, Ionic (1 e 2), React-native, Cordova, jQuery Mobile, IBM MobileFirst. 
 
-**Jogos:** Unity, AS3.
+**Jogos:** Unity3D, AS3.
 
-**Outros:** Design Patterns, Gerenciamento de Projetos.
+**Outros:** Gulp, Npm Packages, Yarn, Design Patterns, Gerenciamento de Projetos.
 
 ##FORMAÇÃO
 
@@ -34,7 +34,7 @@ Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobb
 ##QUALIFICAÇÕES E ATIVIDADES PROFISSIONAIS 
 
  **Junho/2016 - Atualmente - MoovenConsulting:** Desenvolvedor (Full Stack)</br>
- **Atividades:** Análise, arquitetura, desenvolvimento e manutenção de aplicativos Mobile, sites e aplicações utilizando Ionic2(Cordova), Angular2 , PHP(Yii2, Wordpress), JavaScript, jQuery, CSS3, HTML5, JAVA (Android).
+ **Atividades:** Análise, arquitetura, desenvolvimento e manutenção de aplicativos mobile, sites e aplicações utilizando Ionic2, Angular, PHP (Yii2, Wordpress), JavaScript, jQuery, CSS3, HTML5, IBM MobileFirst, JAVA (Android).
 
  **Janeiro/2016 - Junho/2016 - G&P:** Desenvolvedor</br>
  **Atividades:** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo com base em .NET, Oracle, KnockoutJs, Unity3D, webservices dentre outros.
