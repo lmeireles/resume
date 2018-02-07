@@ -11,11 +11,11 @@ Profissional interessado em novas tecnologias e sempre aberto para mudanças e n
 Sempre à procura de crescimento e equipes sinergéticas que permitam compartilhar e receber conhecimento; ama ensinar e repassar o que aprende, por isso já lecionou por algum tempo. 
 Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobbies.
 
-**Back-End:** PHP (Yii2, Codeigniter, Wordpress), .Net (Asp.Net, MVC), Ruby (Rails), Python, desenvolvimento e consumo de webservices(REST e SOAP).
+**Back-End:** PHP (Yii2, Laravel, Codeigniter, Wordpress), .Net (Asp.Net, MVC), Ruby (Rails), Python, desenvolvimento e consumo de webservices(REST e SOAP).
 
-**Front-End:** JavaScript (React, Angular, jQuery, Ajax, KnockoutJs), HTML5, CSS3 (pré-processadores Sass, LESS), Bootstrap(3 e 4), SEO.
+**Front-End:** JavaScript (React, Angular, jQuery, Ajax, KnockoutJs), HTML5, CSS3 (Sass, LESS), Bootstrap, SEO.
 
-**Banco de Dados:** MySql, MariaDb, Microsoft Sql Server, Oracle, MongoDb.
+**Banco de Dados:** MySql, MariaDb, MongoDb, Oracle.
 
 **Controle de Versão:** Git, SVN.
 
@@ -35,7 +35,7 @@ Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobb
 
  **Junho/2016 - Atualmente - MoovenConsulting:** Desenvolvedor (Full Stack)</br>
  **Atividades:** Liderança técnica, levantamento de tarefeças, scrum. 
- Análise, arquitetura, desenvolvimento e manutenção de aplicativos mobile, sites e aplicações utilizando Ionic2, Angular, PHP (Yii2, Wordpress), JavaScript, jQuery, CSS3, HTML5, IBM MobileFirst, JAVA (Android).
+ Análise, arquitetura, desenvolvimento e manutenção de aplicativos mobile, sites e aplicações utilizando React, Ionic2, Angular, PHP (Yii2, Wordpress), JavaScript, jQuery, CSS3, HTML5, IBM MobileFirst, JAVA (Android).
 
  **Janeiro/2016 - Junho/2016 - G&P:** Desenvolvedor</br>
  **Atividades:** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo com base em .NET, Oracle, KnockoutJs, Unity3D, webservices dentre outros.
