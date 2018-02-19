@@ -35,8 +35,8 @@ Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobb
 
  **Junho/2016 - Atualmente - MoovenConsulting:** Desenvolvedor/Líder Técnico (Full Stack)</br>
  **Atividades:** Liderança técnica, levantamento de tarefeças, scrum. 
- Análise, arquitetura, desenvolvimento e manutenção de aplicativos mobile, sites e aplicações utilizando React, Ionic2, Angular, PHP (Yii2, Wordpress), JavaScript, jQuery, CSS3, HTML5, IBM MobileFirst, JAVA (Android).
- **Alguns Clientes:** Hyundai (Chatbot), RaiaDrogasil (App's), Marisa (App/Site/CMS), Labedu (App)...</br>
+ Análise, arquitetura, desenvolvimento e manutenção de aplicativos mobile, sites e aplicações utilizando React, Ionic2, Angular, PHP (Yii2, Wordpress), JavaScript, jQuery, CSS3, HTML5, IBM MobileFirst, JAVA (Android).</br>
+ **Alguns Clientes:** Hyundai (Chatbot), RaiaDrogasil (App's), Marisa (App/Site/CMS), Labedu (App)...
 
  **Janeiro/2016 - Junho/2016 - G&P:** Desenvolvedor</br>
  **Atividades:** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo com base em .NET, Oracle, KnockoutJs, Unity3D, webservices dentre outros.
