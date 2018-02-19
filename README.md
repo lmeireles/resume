@@ -36,13 +36,13 @@ Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobb
  **Junho/2016 - Atualmente - MoovenConsulting:** Desenvolvedor/Líder Técnico (Full Stack)</br>
  **Atividades:** Liderança técnica, levantamento de tarefeças, scrum. 
  Análise, arquitetura, desenvolvimento e manutenção de aplicativos mobile, sites e aplicações utilizando React, Ionic2, Angular, PHP (Yii2, Wordpress), JavaScript, jQuery, CSS3, HTML5, IBM MobileFirst, JAVA (Android).
- **Alguns Clientes:** Hyundai (Chatbot), RaiaDrogasil (App's), Marisa (App/Site/CMS), Labedu (App)...
+ **Alguns Clientes:** Hyundai (Chatbot), RaiaDrogasil (App's), Marisa (App/Site/CMS), Labedu (App)...</br>
 
  **Janeiro/2016 - Junho/2016 - G&P:** Desenvolvedor</br>
  **Atividades:** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo com base em .NET, Oracle, KnockoutJs, Unity3D, webservices dentre outros.
 
  **Dezembro/2013 – Dezembro/2015 – Agência Engine:** Desenvolvedor (Full Stack)</br>
- **Atividades:** Análise, arquitetura, desenvolvimento e manutenção de sites e aplicações utilizando PHP(Wordpress, Yii2, CodeIgniter), JavaScript, jQuery, CSS3, HTML5 e criação de aplicativos mobile utilizando JAVA (Android) e Ionic (Multiplataforma).
+ **Atividades:** Análise, arquitetura, desenvolvimento e manutenção de sites e aplicações utilizando PHP(Wordpress, Yii2, CodeIgniter), JavaScript, jQuery, CSS3, HTML5 e criação de aplicativos mobile utilizando JAVA (Android) e Ionic (Multiplataforma).</br>
  **Alguns Clientes:** Microsoft, Plano&Plano, Cyrela, SkipHop, Ergobaby, Danone...
   
  **Outubro/2011 – Novembro/2013 – PRODAM:** Estagiário</br>
