@@ -34,7 +34,7 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 ## PROFESSIONAL INFO
 
  **Feb/2018 - Present - Affinibox:** Full Stack Developer</br>
- **Description:** Development and support of the WhiteLabel Affinibox platform, using Laravel for the APIs, React for the web application and React Native for creating custom applications for the platform's various clients.</br>
+ **Description:** Development and support of the WhiteLabel platform, using Laravel for the APIs, React for the web application and React Native for creating custom applications for the platform's various clients.</br>
 
  **Jun/2016 - Feb/2018 - MoovenConsulting:** Technical Lead / Full Stack Developer</br>
  **Description:** Technical leadership, task scouting, scrum.
