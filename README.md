@@ -5,7 +5,7 @@ Brasilian, Single <br/>
 Vila Maria Alta – São Paulo – SP - Brazil<br/>
 Phone: (11) 98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
 
-##ABOUT LUÍS
+## ABOUT LUÍS
 
 Professional interested in new technologies and always open for change. Likes to look for new ways to solve problems and has interest in creating products that can impact society in a positive way.
 Always looking for growth and synergetic teams that share and receive knowledge; loves to teach and pass on what he learns, so he has taught for some time.
@@ -25,13 +25,13 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
 **Others:** Gulp, Npm Packages, Yarn, Design Patterns, Project Management.
 
-##EDUCATION
+## EDUCATION
 
  - Bachelor of Computer Science – Universidade Nove de Julho - Jan 2011 - Dec 2014
  - Computer Technician – ETEC Horácio Augusto da Silveira - São Paulo – 06/2009 to 12/2010 
  - English – Advanced (CNA – 4 years)  
 
-##PROFESSIONAL INFO
+## PROFESSIONAL INFO
 
  **Feb/2018 - Present - Affinibox:** Full Stack Developer</br>
  **Description:** Development and support of the WhiteLabel Affinibox platform, using Laravel for the APIs, React for the web application and React Native for creating custom applications for the platform's various clients.</br>
@@ -42,7 +42,7 @@ Analysis, architecture, development and maintenance of mobile applications, webs
  **Some Clients:** Hyundai, RaiaDrogasil, Marisa, Labedu, Música Colaborativa...
 
  **Jan/2016 - Jun/2016 - G&P:** Developer</br>
- **Description:** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo com base em .NET, Oracle, KnockoutJs, Unity3D, webservices dentre outros.
+ **Description:** Analysis, architecture and development of web systems for the São Paulo government based on .NET, Oracle, KnockoutJs, Unity3D and webservices.
 
  **Dez/2013 – Dez/2015 – Agência Engine:** Full Stack Developer</br>
  **Description:** Analysis, architecture, development and maintenance of websites and applications using PHP (Wordpress, Yii2, CodeIgniter), JavaScript, jQuery, CSS3, HTML5 and creation of mobile applications using JAVA (Android) and Ionic (Multiplatform).</br>
@@ -51,11 +51,11 @@ Analysis, architecture, development and maintenance of mobile applications, webs
  **Oct/2011 – Nov/2013 – PRODAM:** Estagiário</br>
  **Description:** Assist instructors in the classroom with the administration of IT courses and assist in the maintenance of the EAD system.
 
- **Atividades como Freelancer - desde 2009:**</br>
- Desenvolvimento de Aplicativos Mobile, Aplicações e Sistemas Web utilizando diversas tecnologias como C# .NET (MVC), PHP (Yii2, Wordpress), JAVA, Ruby on Rails, WooCommerce, Magento, Ioni2, Agular2, dentre outras tecnologias do mercado.
+ **Freelancer - since 2009:**</br>
+ **Description:** Development of Mobile Applications, Applications and Web Systems using several technologies such as PHP, JAVA, Ruby on Rails, WooCommerce, Magento, Ionic2, Agular2, React and React Native among others.
 
-## INFORMAÇÕES ADICIONAIS
+## ADDITIONAL INFO
 
- - **Iniciação Científica:** Pesquisa utilizando inteligência artificial para prever possíveis doenças no coração do paciente.
- - **Iniciação Científica:** Criação de jogo para auxiliar crianças com autismo a desenvolver coordenação motora.
+ - **Scientific Research:** Research using artificial intelligence to predict possible diseases in the patient's heart.
+ - **Scientific Research:** Creation of a game to help children with autism to develop motor coordination.
 
