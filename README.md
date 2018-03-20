@@ -7,7 +7,7 @@ Phone: (11) 98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
 
 ## ABOUT LUÍS
 
-Professional interested in new technologies and always open for change. Likes to look for new ways to solve problems and has interest in creating products that can impact society in a positive way.
+Professional interested in new technologies and always open for change. Likes to look for new ways to solve problems and has interest in creating products that can impact society in a positive way.<br/>
 Always looking for growth and synergetic teams that share and receive knowledge; loves to teach and pass on what he learns, so he has taught for some time.
 He usually spends his free time creating games and APPs, in addition to his hobbies.
 
