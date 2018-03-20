@@ -1,52 +1,55 @@
 #Luís Carlos Meireles
 
-Brasileiro, Solteiro <br/>
-24 Anos<br/>
-Vila Maria Alta – São Paulo – SP - Brasil<br/>
-Telefone: (11) 98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
+Brasilian, Single <br/>
+24 Years<br/>
+Vila Maria Alta – São Paulo – SP - Brazil<br/>
+Phone: (11) 98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
 
-##RESUMO PROFISSIONAL
+##ABOUT LUÍS
 
-Profissional interessado em novas tecnologias e sempre aberto para mudanças e novidades. Gosta de procurar maneiras novas para solucionar problemas e tem interesse na criação de produtos que possam impactar a sociedade de maneira positiva.<br />
-Sempre à procura de crescimento e equipes sinergéticas que permitam compartilhar e receber conhecimento; ama ensinar e repassar o que aprende, por isso já lecionou por algum tempo. 
-Costuma gastar seu tempo livre com criação de jogos e APPs, além de seus hobbies.
+Professional interested in new technologies and always open for change. Likes to look for new ways to solve problems and has interest in creating products that can impact society in a positive way.
+Always looking for growth and synergetic teams that share and receive knowledge; loves to teach and pass on what he learns, so he has taught for some time.
+He usually spends his free time creating games and APPs, in addition to his hobbies.
 
-**Back-End:** PHP (Yii2, Laravel, Codeigniter, Wordpress), .Net (Asp.Net, MVC), Ruby (Rails), Python, desenvolvimento e consumo de webservices(REST e SOAP).
+**Back-End:** PHP (Yii2, Laravel, Codeigniter, Wordpress), Elixir(Phoenix), Ruby (Rails), .Net (Asp.Net, MVC), Python, development and consumption of webservices (REST and SOAP).
 
 **Front-End:** JavaScript (React, Angular, jQuery, Ajax, KnockoutJs), HTML5, CSS3 (Sass, LESS), Bootstrap, SEO.
 
-**Banco de Dados:** MySql, MariaDb, MongoDb, Oracle.
+**Databases:** MySql, MariaDb, MongoDb, CouchDb.
 
-**Controle de Versão:** Git, SVN.
+**Version Control:** Git, SVN.
 
-**Mobile:** Android Nativo, Ionic 2+, React-native, Cordova, jQuery Mobile, IBM MobileFirst. 
+**Mobile:** Android, Ionic 2+, React Native, Cordova, jQuery Mobile, IBM MobileFirst. 
 
-**Jogos:** Unity3D, AS3.
+**Games:** Unity3D, AS3.
 
-**Outros:** Gulp, Npm Packages, Yarn, Design Patterns, Gerenciamento de Projetos.
+**Others:** Gulp, Npm Packages, Yarn, Design Patterns, Project Management.
 
-##FORMAÇÃO
+##EDUCATION
 
- - Bacharelado em Ciência da Computação – UNINOVE Concluído em Dezembro de 2014 
- - Técnico em informática – ETEC Horácio Augusto da Silveira – SP Período – 06/2009 até 12/2010 
- - Inglês – Avançado (CNA – 4 anos)  
+ - Bachelor of Computer Science – Universidade Nove de Julho - Jan 2011 - Dec 2014
+ - Computer Technician – ETEC Horácio Augusto da Silveira - São Paulo – 06/2009 to 12/2010 
+ - English – Advanced (CNA – 4 years)  
 
-##QUALIFICAÇÕES E ATIVIDADES PROFISSIONAIS 
+##PROFESSIONAL INFO
 
- **Junho/2016 - Atualmente - MoovenConsulting:** Desenvolvedor/Líder Técnico (Full Stack)</br>
- **Atividades:** Liderança técnica, levantamento de tarefeças, scrum. 
- Análise, arquitetura, desenvolvimento e manutenção de aplicativos mobile, sites e aplicações utilizando React, Ionic2, Angular, PHP (Yii2, Wordpress), JavaScript, jQuery, CSS3, HTML5, IBM MobileFirst, JAVA (Android).</br>
- **Alguns Clientes:** Hyundai, RaiaDrogasil, Marisa, Labedu, Música Colaborativa...
+ **Feb/2018 - Present - Affinibox:** Full Stack Developer</br>
+ **Description:** Development and support of the WhiteLabel Affinibox platform, using Laravel for the APIs, React for the web application and React Native for creating custom applications for the platform's various clients.</br>
 
- **Janeiro/2016 - Junho/2016 - G&P:** Desenvolvedor</br>
- **Atividades:** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo com base em .NET, Oracle, KnockoutJs, Unity3D, webservices dentre outros.
+ **Jun/2016 - Feb/2018 - MoovenConsulting:** Technical Lead / Full Stack Developer</br>
+ **Description:** Technical leadership, task scouting, scrum.
+Analysis, architecture, development and maintenance of mobile applications, websites and applications using React, ReactNative, Ionic 2+, Angular 2+, Node, PHP (Laravel, Yii2, Wordpress), Ruby (Ruby on Rails), MongoDb, MySql.</br>
+ **Some Clients:** Hyundai, RaiaDrogasil, Marisa, Labedu, Música Colaborativa...
 
- **Dezembro/2013 – Dezembro/2015 – Agência Engine:** Desenvolvedor (Full Stack)</br>
- **Atividades:** Análise, arquitetura, desenvolvimento e manutenção de sites e aplicações utilizando PHP(Wordpress, Yii2, CodeIgniter), JavaScript, jQuery, CSS3, HTML5 e criação de aplicativos mobile utilizando JAVA (Android) e Ionic (Multiplataforma).</br>
- **Alguns Clientes:** Microsoft, Plano&Plano, Cyrela, SkipHop, Ergobaby, Danone...
+ **Jan/2016 - Jun/2016 - G&P:** Developer</br>
+ **Description:** Análise, arquitetura e desenvolvimento de sistemas web para o governo do estado de São Paulo com base em .NET, Oracle, KnockoutJs, Unity3D, webservices dentre outros.
+
+ **Dez/2013 – Dez/2015 – Agência Engine:** Full Stack Developer</br>
+ **Description:** Analysis, architecture, development and maintenance of websites and applications using PHP (Wordpress, Yii2, CodeIgniter), JavaScript, jQuery, CSS3, HTML5 and creation of mobile applications using JAVA (Android) and Ionic (Multiplatform).</br>
+ **Some Clients:** Microsoft Brasil, Plano&Plano, Cyrela, SkipHop, Ergobaby, Danone...
   
- **Outubro/2011 – Novembro/2013 – PRODAM:** Estagiário</br>
- **Atividades:** Auxiliar instrutores em sala de aula na ministração de cursos na área de TI e auxiliar na manutenção do sistema EAD.
+ **Oct/2011 – Nov/2013 – PRODAM:** Estagiário</br>
+ **Description:** Assist instructors in the classroom with the administration of IT courses and assist in the maintenance of the EAD system.
 
  **Atividades como Freelancer - desde 2009:**</br>
  Desenvolvimento de Aplicativos Mobile, Aplicações e Sistemas Web utilizando diversas tecnologias como C# .NET (MVC), PHP (Yii2, Wordpress), JAVA, Ruby on Rails, WooCommerce, Magento, Ioni2, Agular2, dentre outras tecnologias do mercado.
