@@ -48,10 +48,10 @@ Analysis, architecture, development and maintenance of mobile applications, webs
  **Description:** Analysis, architecture, development and maintenance of websites and applications using PHP (Wordpress, Yii2, CodeIgniter), JavaScript, jQuery, CSS3, HTML5 and creation of mobile applications using JAVA (Android) and Ionic (Multiplatform).</br>
  **Some Clients:** Microsoft Brasil, Plano&Plano, Cyrela, SkipHop, Ergobaby, Danone...
   
- **Oct/2011 – Nov/2013 – PRODAM:** Estagiário</br>
+ **Oct/2011 – Nov/2013 – PRODAM:** Intern</br>
  **Description:** Assist instructors in the classroom with the administration of IT courses and assist in the maintenance of the EAD system.
 
- **Freelancer - since 2009:**</br>
+ **Freelancer - since 2011:**</br>
  **Description:** Development of Mobile Applications, Applications and Web Systems using several technologies such as PHP, JAVA, Ruby on Rails, WooCommerce, Magento, Ionic2, Agular2, React and React Native among others.
 
 ## ADDITIONAL INFO
