@@ -11,7 +11,7 @@ A Professional interested in new technologies and always open for change. Likes 
 Always looking for growth and synergetic teams that can share and receive knowledge; loves to teach and pass on what he learns.
 He usually spends his free time creating games and APPs, in addition to his hobbies.
 
-**Back-End:** PHP (Yii2, Laravel, Codeigniter, Wordpress), Elixir(Phoenix), Ruby (Rails), .Net (Asp.Net, MVC), Python, development and consumption of webservices (REST and SOAP).
+**Back-End:** PHP (Yii2, Laravel, Codeigniter, Wordpress), Ruby (Rails), Kotlin, Elixir(Phoenix), .Net (Asp.Net, MVC), Python, development and consumption of webservices (REST and SOAP).
 
 **Front-End:** JavaScript (React, Angular, jQuery, Ajax, KnockoutJs), HTML5, CSS3 (Sass, LESS), Bootstrap, SEO.
 
@@ -19,7 +19,7 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
 **Version Control:** Git, SVN.
 
-**Mobile:** Android, React Native, Ionic 2+, Cordova, IBM MobileFirst. 
+**Mobile:** Android, Kotlin, React Native, Ionic 2+, Cordova, IBM MobileFirst. 
 
 **Games:** Unity3D (C#), AS3.
 
