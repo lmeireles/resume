@@ -7,8 +7,8 @@ Phone: (11) 98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
 
 ## ABOUT LUÍS
 
-Professional interested in new technologies and always open for change. Likes to look for new ways to solve problems and has interest in creating products that can impact society in a positive way.<br/>
-Always looking for growth and synergetic teams that share and receive knowledge; loves to teach and pass on what he learns, so he has taught for some time.
+A Professional interested in new technologies and always open for change. Likes to look for new ways to solve problems and has interest in creating products that can impact society in a positive way.<br/>
+Always looking for growth and synergetic teams that can share and receive knowledge; loves to teach and pass on what he learns.
 He usually spends his free time creating games and APPs, in addition to his hobbies.
 
 **Back-End:** PHP (Yii2, Laravel, Codeigniter, Wordpress), Elixir(Phoenix), Ruby (Rails), .Net (Asp.Net, MVC), Python, development and consumption of webservices (REST and SOAP).
@@ -19,11 +19,11 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
 **Version Control:** Git, SVN.
 
-**Mobile:** Android, Ionic 2+, React Native, Cordova, jQuery Mobile, IBM MobileFirst. 
+**Mobile:** Android, React Native, Ionic 2+, Cordova, IBM MobileFirst. 
 
-**Games:** Unity3D, AS3.
+**Games:** Unity3D (C#), AS3.
 
-**Others:** Gulp, Npm Packages, Yarn, Design Patterns, Project Management.
+**Others:** AWS, Azure, Gulp, Npm Packages, Yarn, Design Patterns, Project Management.
 
 ## EDUCATION
 
@@ -34,7 +34,7 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 ## PROFESSIONAL INFO
 
  **Feb/2018 - Present - Affinibox:** Full Stack Developer</br>
- **Description:** Development and support of the WhiteLabel platform, using Laravel for the APIs, React for the web application and React Native for creating custom applications for the platform's various clients.</br>
+ **Description:** Development and support of the WhiteLabel platform, using AWS, Laravel for the APIs, React for the web application and React Native for creating custom applications for the platform's various clients.</br>
 
  **Jun/2016 - Feb/2018 - MoovenConsulting:** Technical Lead / Full Stack Developer</br>
  **Description:** Technical leadership, task scouting, scrum.
