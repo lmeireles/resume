@@ -11,17 +11,37 @@ A Professional interested in new technologies and always open for change. Likes 
 Always looking for growth and synergetic teams that can share and receive knowledge; loves to teach and pass on what he learns.
 He usually spends his free time creating games and APPs, in addition to his hobbies.
 
-**Back-End:** PHP (Yii2, Laravel, Codeigniter, Wordpress), Ruby (Rails), Kotlin, Elixir(Phoenix), .Net (Asp.Net, MVC), Python, development and consumption of webservices (REST and SOAP).
+**Back-End:** 
+ - PHP (Laravel, Yii2, Codeigniter, Wordpress) ```Advanced```
+ - Ruby (Rails) ```Advanced```
+ - Kotlin ```Intermediate```
+ - .Net (Asp.Net, MVC) ```Basic```
+ - Elixir(Phoenix) ```Basic```
+ - Python ```Basic```
 
-**Front-End:** JavaScript (React, Angular, jQuery, Ajax, KnockoutJs), HTML5, CSS3 (Sass, LESS), Bootstrap, SEO.
+**Front-End:** 
+ - JavaScript (React, Angular, jQuery, Ajax, KnockoutJs) ```Advanced```
+ - HTML5 ```Advanced```
+ - CSS3 (Sass, LESS, Bootstrap) ```Advanced```
+ - SEO
 
-**Databases:** MySql, MariaDb, MongoDb, CouchDb.
+**Databases:** 
+ - MySql ```Advanced```
+ - MariaDb ```Advanced```
+ - MongoDb ```Intermediate```
+ - CouchDb ```Basic```
 
 **Version Control:** Git, SVN.
 
-**Mobile:** Android, Kotlin, React Native, Ionic 2+, Cordova, IBM MobileFirst. 
+**Mobile:** 
+ - React Native ```Advanced```
+ - Ionic 2+ ```Advanced```
+ - Android (Kotlin, Java) ```Intermediate```
+ - IBM MobileFirst ```Basic```
 
-**Games:** Unity3D (C#), AS3.
+**Games:** 
+ - Unity3D (C#) ```Intermediate```
+ - AS3 ```Basic```
 
 **Others:** AWS, Azure, Gulp, Npm Packages, Yarn, Design Patterns, Project Management.
 
