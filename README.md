@@ -25,6 +25,12 @@ He usually spends his free time creating games and APPs, in addition to his hobb
  - CSS3 (Sass, LESS, Bootstrap) ```Advanced```
  - SEO
 
+**Mobile:** 
+ - React Native ```Advanced```
+ - Ionic 2+ ```Advanced```
+ - Android (Kotlin, Java) ```Intermediate```
+ - IBM MobileFirst ```Basic```
+
 **Databases:** 
  - MySql ```Advanced```
  - MariaDb ```Advanced```
@@ -32,12 +38,6 @@ He usually spends his free time creating games and APPs, in addition to his hobb
  - CouchDb ```Basic```
 
 **Version Control:** Git, SVN.
-
-**Mobile:** 
- - React Native ```Advanced```
- - Ionic 2+ ```Advanced```
- - Android (Kotlin, Java) ```Intermediate```
- - IBM MobileFirst ```Basic```
 
 **Games:** 
  - Unity3D (C#) ```Intermediate```
