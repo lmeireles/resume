@@ -24,6 +24,12 @@ Sempre buscando crescimento e equipes sinérgicas que possam compartilhar conhec
  - CSS3 (Sass, LESS, Bootstrap) ```Avançado```
  - SEO
 
+**Mobile:** 
+ - React Native ```Avançado```
+ - Ionic 2+ ```Avançado```
+ - Android (Kotlin, Java) ```Intermediário```
+ - IBM MobileFirst ```Básico```
+
 **Databases:** 
  - MySql ```Avançado```
  - MariaDb ```Avançado```
@@ -31,12 +37,6 @@ Sempre buscando crescimento e equipes sinérgicas que possam compartilhar conhec
  - CouchDb ```Básico```
 
 **Version Control:** Git, SVN.
-
-**Mobile:** 
- - React Native ```Avançado```
- - Ionic 2+ ```Avançado```
- - Android (Kotlin, Java) ```Intermediário```
- - IBM MobileFirst ```Básico```
 
 **Games:** 
  - Unity3D (C#) ```Intermediário```
