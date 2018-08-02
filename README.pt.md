@@ -72,6 +72,7 @@ Sempre buscando crescimento e equipes sinérgicas que possam compartilhar conhec
 
  **Freelancer - desde 2011:**</br>
  **Descrição:** Desenvolvimento de aplicativos móveis, aplicativos e sistemas da Web usando várias tecnologias, como PHP, Kotlin, Ruby on Rails, WooCommerce, Magento, Ionic2, Agular2, React and React Native.
+ **Alguns Clientes:** Movida, MoovenConsulting, Plano&Plano, lojas online, startups com aplicativos...
 
 ## INFORMAÇÕES ADICIONAIS
 
