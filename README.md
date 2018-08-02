@@ -73,6 +73,7 @@ Analysis, architecture, development and maintenance of mobile applications, webs
 
  **Freelancer - since 2011:**</br>
  **Description:** Development of Mobile Applications, Applications and Web Systems using several technologies such as PHP, Kotlin, Ruby on Rails, WooCommerce, Magento, Ionic2, Agular2, React and React Native among others.
+ **Some Clients:** Movida, MoovenConsulting, Plano&Plano, web stores, startups aplications...
 
 ## ADDITIONAL INFO
 
