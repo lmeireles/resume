@@ -47,7 +47,7 @@ Sempre buscando crescimento e equipes sinérgicas que possam compartilhar conhec
 ## FORMAÇÃO
 
  - Bacharel em Ciência da Computação - Universidade Nove de Julho - Jan 2011 - Dez 2014
- - Técnico em Informática - ETEC Horácio Augusto da Silveira - São Paulo - 06/2009 a 12/2010
+ - Técnico em Desenvolvimento de Sistemas - ETEC Horácio Augusto da Silveira - São Paulo - 06/2009 a 12/2010
  - Inglês - Avançado (CNA - 4 anos)
 
 ## INFORMAÇÕES PROFISSIONAIS
