@@ -48,7 +48,7 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 ## EDUCATION
 
  - Bachelor of Computer Science – Universidade Nove de Julho - Jan 2011 - Dec 2014
- - Computer Technician – ETEC Horácio Augusto da Silveira - São Paulo – 06/2009 to 12/2010 
+ - Systems Development Technician – ETEC Horácio Augusto da Silveira - São Paulo – 06/2009 to 12/2010 
  - English – Advanced (CNA – 4 years)  
 
 ## PROFESSIONAL INFO
