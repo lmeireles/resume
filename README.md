@@ -13,7 +13,7 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
 **Back-End:** 
  - PHP (Laravel, Yii2, Codeigniter, Wordpress) ```Advanced```
- - Ruby (Rails) ```Advanced```
+ - Ruby (Rails, Sinatra) ```Advanced```
  - Kotlin ```Intermediate```
  - .Net (Asp.Net, MVC) ```Basic```
  - Elixir(Phoenix) ```Basic```
@@ -53,7 +53,10 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
 ## PROFESSIONAL INFO
 
- **Feb/2018 - Present - Affinibox:** Full Stack Developer</br>
+ **Oct/2018 - Present - Abril:** Ruby Full Stack Developer</br>
+ **Description:** Development and support of the GoRead Mobile and Web platform applications, using Ruby (Rails and Sinatra) for the APIs; Html5, CSS3, Angular and Rails for the web applications; and React Native for creating custom mobile applications for the platform. The application has more than 500 thousands downloads of magazines per month, and it's API is used by other Applications in the company, accounting more than 80 million requests/month, witch requires an high availability architecture,  we are using AWS for our infrastructure and CI/CD thecniques.</br>
+ 
+ **Feb/2018 - Oct/2018 - Affinibox:** Full Stack Developer</br>
  **Description:** Development and support of the WhiteLabel platform, using AWS, Laravel for the APIs, React for the web application and React Native for creating custom applications for the platform's various clients.</br>
 
  **Jun/2016 - Feb/2018 - MoovenConsulting:** Technical Lead / Full Stack Developer</br>
