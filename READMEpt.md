@@ -12,7 +12,7 @@ Sempre buscando crescimento e equipes sinérgicas que possam compartilhar conhec
 
 **Back-End:** 
  - PHP (Laravel, Yii2, Codeigniter, Wordpress) ```Avançado```
- - Ruby (Rails) ```Avançado```
+ - Ruby (Rails, Sinatra) ```Avançado```
  - Kotlin ```Intermediário```
  - .Net (Asp.Net, MVC) ```Básico```
  - Elixir(Phoenix) ```Básico```
@@ -52,7 +52,10 @@ Sempre buscando crescimento e equipes sinérgicas que possam compartilhar conhec
 
 ## INFORMAÇÕES PROFISSIONAIS
 
- **Fev/2018 - Atual - Affinibox:** Full Stack Developer</br>
+ **Oct/2018 - Present - Abril:** Ruby Full Stack Developer</br>
+ **Description:** Desenvolvimento e suporte dos aplicativos da plataforma GoRead Mobile e Web, utilizando Ruby (Rails e Sinatra) para as APIs; Html5, CSS3, Angular e Rails para as aplicações web; e React Native para criar aplicativos mobile personalizados para a plataforma. O aplicativo tem mais de 500 mil downloads de revistas por mês, e sua API é utilizada por outros aplicativos da empresa, contabilizando mais de 80 milhões de requests/mês, o que exige uma arquitetura de alta disponibilidade, estamos usando a AWS para nossa infraestrutura e técnicas de CI/CD.</br>
+
+ **Fev/2018 - Out/2018 - Affinibox:** Full Stack Developer</br>
  **Descrição:** Desenvolvimento e suporte da plataforma WhiteLabel, usando AWS, Laravel para as APIs, React para as aplicações web e React Native para criação de aplicativos personalizados para os diversos clientes da plataforma.</br>
 
  **Jun/2016 - Fev/2018 - MoovenConsulting:** Technical Lead / Full Stack Developer</br>
