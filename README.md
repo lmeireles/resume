@@ -53,32 +53,32 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
 ## PROFESSIONAL INFO
 
- **Oct/2018 - Present - Abril:** Tech Lead / Full Stack Developer</br>
- **Description:** Development and support of the GoRead Mobile and Web platform applications. 
- Using Ruby (Rails and Sinatra) for the APIs; Html5, CSS3, Angular and Rails for the web application.
- The mobile application needed to be created again from scratch and, for that I was choose to do all the Technical leadership, task scouting and architecture for the new app version. In the new mobile app we used React Native to create custom mobile applications for the platform. The application has more than 500 thousands downloads of magazines per month, and it's API is used by other Applications in the company, accounting more than 80 million requests/month, witch requires an high availability architecture,  we are using AWS for our infrastructure and CI/CD techniques.</br>
+ **Oct/2018 - Present - Abril:** Tech Lead / Full Stack Developer<br/>
+ **Description:** Development and support of the GoRead Mobile and Web platform applications.<br/>
+ Using Ruby (Rails and Sinatra) for the APIs; Html5, CSS3, Angular and Rails for the web application.<br/>
+ The mobile application needed to be created again from scratch and, for that I was choose to do all the Technical leadership, task scouting and architecture for the new app version. In the new mobile app we used React Native to create custom mobile applications for the platform. The application has more than 500 thousands downloads of magazines per month, and it's API is used by other Applications in the company, accounting more than 80 million requests/month, witch requires an high availability architecture,  we are using AWS for our infrastructure and CI/CD techniques.<br/>
  
- **Feb/2018 - Oct/2018 - Affinibox:** Full Stack Developer</br>
- **Description:** Development and support of the WhiteLabel platform, using AWS, Laravel for the APIs, React for the web application and React Native for creating custom applications for the platform's various clients.</br>
+ **Feb/2018 - Oct/2018 - Affinibox:** Full Stack Developer<br/>
+ **Description:** Development and support of the WhiteLabel platform, using AWS, Laravel for the APIs, React for the web application and React Native for creating custom applications for the platform's various clients.<br/>
 
- **Jun/2016 - Feb/2018 - MoovenConsulting:** Tech Lead / Full Stack Developer</br>
- **Description:** Technical leadership, task scouting, scrum.
-Analysis, architecture, development and maintenance of mobile applications, websites and applications using React, ReactNative, Ionic 2+, Angular 2+, Node, PHP (Laravel, Yii2, Wordpress), Ruby (Ruby on Rails), MongoDb, MySql.</br>
+ **Jun/2016 - Feb/2018 - MoovenConsulting:** Tech Lead / Full Stack Developer<br/>
+ **Description:** Technical leadership, task scouting, scrum.<br/>
+Analysis, architecture, development and maintenance of mobile applications, websites and applications using React, ReactNative, Ionic 2+, Angular 2+, Node, PHP (Laravel, Yii2, Wordpress), Ruby (Ruby on Rails), MongoDb, MySql.<br/>
  **Some Clients:** Hyundai, RaiaDrogasil, Marisa, Labedu, Música Colaborativa...
 
- **Jan/2016 - Jun/2016 - G&P:** Developer</br>
+ **Jan/2016 - Jun/2016 - G&P:** Developer<br/>
  **Description:** Analysis, architecture and development of web systems for the São Paulo government based on .NET, Oracle, KnockoutJs, Unity3D and webservices.
 
- **Dez/2013 – Dez/2015 – Agência Engine:** Full Stack Developer</br>
- **Description:** Analysis, architecture, development and maintenance of websites and applications using PHP (Wordpress, Yii2, CodeIgniter), JavaScript, jQuery, CSS3, HTML5 and creation of mobile applications using JAVA (Android) and Ionic (Multiplatform).</br>
+ **Dez/2013 – Dez/2015 – Agência Engine:** Full Stack Developer<br/>
+ **Description:** Analysis, architecture, development and maintenance of websites and applications using PHP (Wordpress, Yii2, CodeIgniter), JavaScript, jQuery, CSS3, HTML5 and creation of mobile applications using JAVA (Android) and Ionic (Multiplatform).<br/>
  **Some Clients:** Microsoft Brasil, Plano&Plano, Cyrela, SkipHop, Ergobaby, Danone...
   
- **Oct/2011 – Nov/2013 – PRODAM:** Intern</br>
+ **Oct/2011 – Nov/2013 – PRODAM:** Intern<br/>
  **Description:** Assist instructors in the classroom with the administration of IT courses and assist in the maintenance of the EAD system.
 
- **Freelancer - since 2011:**</br>
+ **Freelancer - since 2011:**<br/>
  **Description:** Started my career first as a freelancer and never stopped coding even if its for myself. 
-Development of Mobile Applications, Applications and Web Systems using several technologies such as PHP, Kotlin, Ruby on Rails, WooCommerce, Magento, Ionic2, Agular2, React and React Native among others.</br>
+Development of Mobile Applications, Applications and Web Systems using several technologies such as PHP, Kotlin, Ruby on Rails, WooCommerce, Magento, Ionic2, Agular2, React and React Native among others.<br/>
  **Some Clients:** Movida, MoovenConsulting, Plano&Plano, web stores, startups aplications...
 
 ## ADDITIONAL INFO
