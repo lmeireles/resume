@@ -53,13 +53,15 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
 ## PROFESSIONAL INFO
 
- **Oct/2018 - Present - Abril:** Ruby Full Stack Developer</br>
- **Description:** Development and support of the GoRead Mobile and Web platform applications, using Ruby (Rails and Sinatra) for the APIs; Html5, CSS3, Angular and Rails for the web applications; and React Native for creating custom mobile applications for the platform. The application has more than 500 thousands downloads of magazines per month, and it's API is used by other Applications in the company, accounting more than 80 million requests/month, witch requires an high availability architecture,  we are using AWS for our infrastructure and CI/CD techniques.</br>
+ **Oct/2018 - Present - Abril:** Tech Lead / Full Stack Developer</br>
+ **Description:** Development and support of the GoRead Mobile and Web platform applications. 
+ Using Ruby (Rails and Sinatra) for the APIs; Html5, CSS3, Angular and Rails for the web application.
+ The mobile application needed to be created again from scratch and, for that I was choose to do all the Technical leadership, task scouting and architecture for the new app version. In the new mobile app we used React Native to create custom mobile applications for the platform. The application has more than 500 thousands downloads of magazines per month, and it's API is used by other Applications in the company, accounting more than 80 million requests/month, witch requires an high availability architecture,  we are using AWS for our infrastructure and CI/CD techniques.</br>
  
  **Feb/2018 - Oct/2018 - Affinibox:** Full Stack Developer</br>
  **Description:** Development and support of the WhiteLabel platform, using AWS, Laravel for the APIs, React for the web application and React Native for creating custom applications for the platform's various clients.</br>
 
- **Jun/2016 - Feb/2018 - MoovenConsulting:** Technical Lead / Full Stack Developer</br>
+ **Jun/2016 - Feb/2018 - MoovenConsulting:** Tech Lead / Full Stack Developer</br>
  **Description:** Technical leadership, task scouting, scrum.
 Analysis, architecture, development and maintenance of mobile applications, websites and applications using React, ReactNative, Ionic 2+, Angular 2+, Node, PHP (Laravel, Yii2, Wordpress), Ruby (Ruby on Rails), MongoDb, MySql.</br>
  **Some Clients:** Hyundai, RaiaDrogasil, Marisa, Labedu, Música Colaborativa...
