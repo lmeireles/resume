@@ -54,7 +54,7 @@ Sempre buscando crescimento e equipes sinérgicas que possam compartilhar conhec
 
  **Oct/2018 - Present - Abril:** Ruby Full Stack Developer</br>
  **Description:** Desenvolvimento e suporte dos aplicativos da plataforma GoRead Mobile e Web.<br/>
- Utilizando Ruby (Rails e Sinatra) para as APIs; Html5, CSS3, Angular e Rails para as aplicações web.
+ Utilizando Ruby (Rails e Sinatra) para as APIs; Html5, CSS3, Angular e Rails para as aplicações web.<br/>
  A aplicação móvel precisava ser criada novamente do zero e, para isso, eu fui selecionado para fazer toda a liderança técnica, levantamento de atividades e arquitetura para a nova versão do aplicativo.
  Na nova versão foit utilizado React Native para criar aplicativos mobile personalizados para a plataforma. O aplicativo tem mais de 500 mil downloads de revistas por mês, e sua API é utilizada por outros aplicativos da empresa, contabilizando mais de 80 milhões de requests/mês, o que exige uma arquitetura de alta disponibilidade, estamos usando a AWS para nossa infraestrutura e técnicas de CI/CD.<br/>
 
