@@ -52,7 +52,7 @@ Sempre buscando crescimento e equipes sinérgicas que possam compartilhar conhec
 
 ## INFORMAÇÕES PROFISSIONAIS
 
- **Oct/2018 - Present - Abril:** Ruby Full Stack Developer</br>
+ **Oct/2018 - Present - Abril:** Tech Lead / Full Stack Developer</br>
  **Description:** Desenvolvimento e suporte dos aplicativos da plataforma GoRead Mobile e Web.<br/>
  Utilizando Ruby (Rails e Sinatra) para as APIs; Html5, CSS3, Angular e Rails para as aplicações web.<br/>
  A aplicação móvel precisava ser criada novamente do zero e, para isso, eu fui selecionado para fazer toda a liderança técnica, levantamento de atividades e arquitetura para a nova versão do aplicativo.
