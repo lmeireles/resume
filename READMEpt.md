@@ -12,6 +12,7 @@ Sempre buscando crescimento e equipes sinérgicas que possam compartilhar conhec
 
 **Mobile:** 
  - React Native ```Avançado```
+   - Hooks, Redux, Redux Saga, Redux Thunk, Styled Components, Formik, Redux Form, Firebase, Flipper, etc..
  - Ionic 2+ ```Avançado```
  - Android (Kotlin, Java) ```Intermediário```
  - IBM MobileFirst ```Básico```
