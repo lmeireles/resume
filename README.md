@@ -11,32 +11,36 @@ A Professional who develops since 2011 when he started as a freelancer, interest
 Always looking for growth and synergetic teams that can share and receive knowledge; loves to teach and pass on what he learns.
 He usually spends his free time creating games and APPs, in addition to his hobbies.
 
+**Mobile:** 
+ - React Native ```Advanced```
+  - Hooks, Redux, Redux Saga, Redux Thunk, Styled Components, Formik, Redux Form, Firebase, Flipper, etc..
+ - Ionic 2+ ```Advanced```
+ - Android (Kotlin, Java) ```Intermediate```
+ - IBM MobileFirst ```Basic```
+ 
 **Back-End:** 
- - PHP (Laravel, Yii2, Codeigniter, Wordpress) ```Advanced```
- - Ruby (Rails, Sinatra) ```Advanced```
+ - PHP ```Advanced```
+  - Laravel, Yii2, Codeigniter, Wordpress
+ - Ruby ```Advanced```
+  - Rails, Sinatra
  - Kotlin ```Intermediate```
- - .Net (Asp.Net, MVC) ```Basic```
- - Elixir(Phoenix) ```Basic```
+ - Elixir (Phoenix) ```Basic```
  - Python ```Basic```
 
 **Front-End:** 
- - JavaScript (React, Angular, jQuery, Ajax, KnockoutJs) ```Advanced```
+ - JavaScript ```Advanced```
+  -React, Angular, jQuery, Ajax, KnockoutJs
  - HTML5 ```Advanced```
  - CSS3 (Sass, LESS, Bootstrap) ```Advanced```
  - SEO
 
-**Mobile:** 
- - React Native ```Advanced```
- - Ionic 2+ ```Advanced```
- - Android (Kotlin, Java) ```Intermediate```
- - IBM MobileFirst ```Basic```
-
 **Databases:** 
  - MySql ```Advanced```
  - MariaDb ```Advanced```
+ - Firebase ```Intermediate```
  - MongoDb ```Intermediate```
  - CouchDb ```Basic```
-
+ 
 **Version Control:** Git, SVN.
 
 **Games:** 
@@ -55,8 +59,8 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
  **Oct/2018 - Present - Abril:** Tech Lead / Full Stack Developer<br/>
  **Description:** Development and support of the GoRead Mobile and Web platform applications.<br/>
+ The mobile application needed to be created again from scratch and, for that I was choose to do all the Technical leadership, task scouting and architecture for the new app version. In the new mobile app we used React Native. The application has more than 500 thousands downloads of magazines per month, and it's API is used by other Applications in the company, accounting more than 80 million requests/month, which requires an high availability architecture,  we are using AWS for our infrastructure and CI/CD techniques.<br/>
  Using Ruby (Rails and Sinatra) for the APIs; Html5, CSS3, Angular and Rails for the web application.<br/>
- The mobile application needed to be created again from scratch and, for that I was choose to do all the Technical leadership, task scouting and architecture for the new app version. In the new mobile app we used React Native to create custom mobile applications for the platform. The application has more than 500 thousands downloads of magazines per month, and it's API is used by other Applications in the company, accounting more than 80 million requests/month, which requires an high availability architecture,  we are using AWS for our infrastructure and CI/CD techniques.<br/>
  
  **Feb/2018 - Oct/2018 - Affinibox:** Full Stack Developer<br/>
  **Description:** Development and support of the WhiteLabel platform, using AWS, Laravel for the APIs, React for the web application and React Native for creating custom applications for the platform's various clients.<br/>
