@@ -13,14 +13,14 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
 **Mobile:** 
  - React Native ```Advanced```
-  - Hooks, Redux, Redux Saga, Redux Thunk, Styled Components, Formik, Redux Form, Firebase, Flipper, etc..
+   - Hooks, Redux, Redux Saga, Redux Thunk, Styled Components, Formik, Redux Form, Firebase, Flipper, etc..
  - Ionic 2+ ```Advanced```
  - Android (Kotlin, Java) ```Intermediate```
  - IBM MobileFirst ```Basic```
  
 **Back-End:** 
  - PHP ```Advanced```
-  - Laravel, Yii2, Codeigniter, Wordpress
+   - Laravel, Yii2, Codeigniter, Wordpress
  - Ruby ```Advanced```
   - Rails, Sinatra
  - Kotlin ```Intermediate```
@@ -29,7 +29,7 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
 **Front-End:** 
  - JavaScript ```Advanced```
-  -React, Angular, jQuery, Ajax, KnockoutJs
+   - React, Angular, jQuery, Ajax, KnockoutJs
  - HTML5 ```Advanced```
  - CSS3 (Sass, LESS, Bootstrap) ```Advanced```
  - SEO
