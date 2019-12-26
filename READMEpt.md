@@ -10,6 +10,12 @@ Fone: (11) 98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
 Um profissional interessado em novas tecnologias e sempre aberto a mudanças. Gosta de procurar novas formas de resolver problemas e tem interesse em criar produtos que possam impactar positivamente a sociedade. <br/>
 Sempre buscando crescimento e equipes sinérgicas que possam compartilhar conhecimento, adora ensinar e transmitir o que aprende.
 
+**Mobile:** 
+ - React Native ```Avançado```
+ - Ionic 2+ ```Avançado```
+ - Android (Kotlin, Java) ```Intermediário```
+ - IBM MobileFirst ```Básico```
+
 **Back-End:** 
  - PHP (Laravel, Yii2, Codeigniter, Wordpress) ```Avançado```
  - Ruby (Rails, Sinatra) ```Avançado```
@@ -23,12 +29,6 @@ Sempre buscando crescimento e equipes sinérgicas que possam compartilhar conhec
  - HTML5 ```Avançado```
  - CSS3 (Sass, LESS, Bootstrap) ```Avançado```
  - SEO
-
-**Mobile:** 
- - React Native ```Avançado```
- - Ionic 2+ ```Avançado```
- - Android (Kotlin, Java) ```Intermediário```
- - IBM MobileFirst ```Básico```
 
 **Databases:** 
  - MySql ```Avançado```
@@ -54,9 +54,10 @@ Sempre buscando crescimento e equipes sinérgicas que possam compartilhar conhec
 
  **Oct/2018 - Present - Abril:** Tech Lead / Full Stack Developer</br>
  **Description:** Desenvolvimento e suporte dos aplicativos da plataforma GoRead Mobile e Web.<br/>
- Utilizando Ruby (Rails e Sinatra) para as APIs; Html5, CSS3, Angular e Rails para as aplicações web.<br/>
- A aplicação móvel precisava ser criada novamente do zero e, para isso, eu fui selecionado para fazer toda a liderança técnica, levantamento de atividades e arquitetura para a nova versão do aplicativo.
- Na nova versão foit utilizado React Native para criar aplicativos mobile personalizados para a plataforma. O aplicativo tem mais de 500 mil downloads de revistas por mês, e sua API é utilizada por outros aplicativos da empresa, contabilizando mais de 80 milhões de requests/mês, o que exige uma arquitetura de alta disponibilidade, estamos usando a AWS para nossa infraestrutura e técnicas de CI/CD.<br/>
+ O aplicativo precisava ser criado novamente do zero e, para isso, eu fui selecionado para fazer a liderança técnica, levantamento de atividades e arquitetura para a nova versão do aplicativo.
+ Na nova versão foit utilizado React Native. O aplicativo tem mais de 500 mil downloads de revistas por mês, e sua API é utilizada por outros aplicativos da empresa, contabilizando mais de 80 milhões de requests/mês, o que exige uma arquitetura de alta disponibilidade, estamos usando a AWS para nossa infraestrutura e técnicas de CI/CD.<br/>
+ Utilizando Ruby (Rails e Sinatra) para as APIs; Html5, CSS3, Angular e Rails para as aplicações web.
+ <br/>
 
  **Fev/2018 - Out/2018 - Affinibox:** Full Stack Developer<br/>
  **Descrição:** Desenvolvimento e suporte da plataforma WhiteLabel, usando AWS, Laravel para as APIs, React para as aplicações web e React Native para criação de aplicativos personalizados para os diversos clientes da plataforma.<br/>
