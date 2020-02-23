@@ -22,9 +22,9 @@ He usually spends his free time creating games and APPs, in addition to his hobb
  - PHP ```Advanced```
    - Laravel, Yii2, Codeigniter, Wordpress
  - Ruby ```Advanced```
-  - Rails, Sinatra
+   - Rails, Sinatra
  - Kotlin ```Intermediate```
- - Elixir (Phoenix) ```Basic```
+ - Elixir (Phoenix) ```Intermediate```
  - Python ```Basic```
 
 **Front-End:** 
