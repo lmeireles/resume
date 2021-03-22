@@ -60,7 +60,7 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
 ## PROFESSIONAL INFO
 
- **Oct/2018 - Present - Abril:** Sr Full Stack Engineer<br/>
+ **Mar/2020 - Present - Nash:** Sr Full Stack Engineer<br/>
  **Description:** Development and support of the crypto mobile application Nash.<br/>
  Work together with the team using ReactNative and some other native modules to build and maintain the application with high security standards and always focusing on the best performance and experience for end users.
 
