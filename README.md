@@ -60,7 +60,12 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
 ## PROFESSIONAL INFO
 
- **Mar/2020 - Present - Nash:** Sr Full Stack Engineer<br/>
+
+ **Jul/2021 - Present - FullStack Labs:** Sr Full Stack Engineer<br/>
+ **Description:** Development and support of teachers pay teachers Easel platform.<br/>
+ Work together with the team using React, Node, Graphql, Apollo, fabricjs to build and maintain the online tool.
+
+ **Mar/2020 - Jul/2021 - Nash:** Sr Full Stack Engineer<br/>
  **Description:** Development and support of the crypto mobile application Nash.<br/>
  Work together with the team using ReactNative and some other native modules to build and maintain the application with high security standards and always focusing on the best performance and experience for end users.
 
