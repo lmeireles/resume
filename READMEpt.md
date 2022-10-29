@@ -53,7 +53,16 @@ Sempre buscando crescimento e equipes sinérgicas que possam compartilhar conhec
 
 ## INFORMAÇÕES PROFISSIONAIS
 
- **Oct/2018 - Present - Abril:** Tech Lead / Full Stack Developer</br>
+
+ **Jul/2021 - Presente - FullStack Labs:** Sr Full Stack Engineer<br/>
+ **Description:** Desenvolvimento e suporte da plataform Easel - teachers pay teachers.<br/>
+ Work together with the team using React, Node, Graphql, Apollo, fabricjs to build and maintain the online tool.
+
+ **Mar/2020 - Jul/2021 - Nash:** Sr Full Stack Engineer<br/>
+ **Description:** Development and support of the crypto mobile application Nash.<br/>
+ Work together with the team using ReactNative and some other native modules to build and maintain the application with high security standards and always focusing on the best performance and experience for end users.
+
+ **Oct/2018 - Presente - Abril:** Tech Lead / Full Stack Developer</br>
  **Description:** Desenvolvimento e suporte dos aplicativos da plataforma GoRead Mobile e Web.<br/>
  O aplicativo precisava ser criado novamente do zero e, para isso, eu fui selecionado para fazer a liderança técnica, levantamento de atividades e arquitetura para a nova versão do aplicativo.
  Na nova versão foit utilizado React Native. O aplicativo tem mais de 500 mil downloads de revistas por mês, e sua API é utilizada por outros aplicativos da empresa, contabilizando mais de 80 milhões de requests/mês, o que exige uma arquitetura de alta disponibilidade, estamos usando a AWS para nossa infraestrutura e técnicas de CI/CD.<br/>
