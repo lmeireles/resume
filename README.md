@@ -13,26 +13,26 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
 **Mobile:** 
  - React Native ```Advanced```
-   - Hooks, Redux, Redux Saga, Redux Thunk, Styled Components, Formik, Redux Form, Firebase, Flipper, etc..
+   - Hooks, Redux, Redux Saga, Redux Thunk, Styled Components, GraphQl, Forms, Firebase, Storage, Custom bridges, etc..
  - Ionic 2+ ```Advanced```
  - Android (Kotlin, Java) ```Intermediate```
- - IBM MobileFirst ```Basic```
  
 **Back-End:** 
- - Ruby ```Advanced```
-   - Rails, Sinatra
- - Node.js ```Advanced```
  - PHP ```Advanced```
    - Laravel, Yii2, Codeigniter, Wordpress
+ - Node.js ```Advanced```
+   - GraphQl, Next.js, Typescript
+ - Ruby ```Intermediate```
+   - Rails, Sinatra
  - Kotlin ```Intermediate```
- - Elixir (Phoenix) ```Intermediate```
+ - Elixir (Phoenix) ```Basic```
  - Python ```Basic```
  - Cloud Functions
  - Lambda
 
 **Front-End:** 
  - JavaScript ```Advanced```
-   - React, Angular, jQuery, Ajax, KnockoutJs
+   - Typescript, React, Angular, jQuery, Ajax, KnockoutJs
  - HTML5 ```Advanced```
  - CSS3 (Sass, LESS, Bootstrap) ```Advanced```
  - SEO
@@ -40,8 +40,9 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 **Databases:** 
  - MySql ```Advanced```
  - MariaDb ```Advanced```
+ - Postgres ```Intermediate```
  - MongoDb ```Intermediate```
- - Firebase ```Intermediate```
+ - Firestore ```Intermediate```
  - CouchDb ```Basic```
  
 **Version Control:** Git, SVN.
@@ -50,7 +51,7 @@ He usually spends his free time creating games and APPs, in addition to his hobb
  - Unity3D (C#) ```Intermediate```
  - AS3 ```Basic```
 
-**Others:** Google Cloud Platform, AWS, Azure, Gulp, Npm Packages, Yarn, Design Patterns, Project Management.
+**Others:** Google Cloud Platform, AWS, Azure, Design Patterns, Project Management.
 
 ## EDUCATION
 
@@ -62,8 +63,15 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 
 
  **Jul/2021 - Present - FullStack Labs:** Sr Full Stack Engineer<br/>
- **Description:** Development and support of teachers pay teachers Easel platform.<br/>
- Work together with the team using React, Node, Graphql, Apollo, fabricjs to build and maintain the online tool.
+ **Description:** Working for clients of FullStack Labs.<br/>
+ On Teachers Pay Teachers, a marketplace for teachers to sell content and create content using the Easel platform:<br/>
+
+ Support of teachers pay teachers Easel platform.<br/>
+ Implementing new functionalities to the Easel platform and helping improving performance on the backend<br/>
+ Lots of frontend implementations using canvas<br/>
+ On the frontend we use React, Typescript, Redux, Apollo.js<br/>
+ On the backend Node, Next.js, Graphql, Postgres<br/>
+ AWS for the infra<br/>
 
  **Mar/2020 - Jul/2021 - Nash:** Sr Full Stack Engineer<br/>
  **Description:** Development and support of the crypto mobile application Nash.<br/>
