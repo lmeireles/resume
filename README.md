@@ -14,25 +14,23 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 **Mobile:** 
  - React Native ```Advanced```
    - Hooks, Redux, Redux Saga, Redux Thunk, Styled Components, GraphQl, Forms, Firebase, Storage, Custom bridges, etc..
- - Ionic 2+ ```Advanced```
- - Android (Kotlin, Java) ```Intermediate```
+ - Flutter ```Intermediate```
+ - Android (Kotlin, Java) ```Basic```
  
 **Back-End:** 
- - PHP ```Advanced```
-   - Laravel, Yii2, Codeigniter, Wordpress
  - Node.js ```Advanced```
    - GraphQl, Next.js, Typescript
+ - PHP ```Advanced```
+   - Laravel, Yii2, Codeigniter, Wordpress
  - Ruby ```Intermediate```
    - Rails, Sinatra
- - Kotlin ```Intermediate```
- - Elixir (Phoenix) ```Basic```
- - Python ```Basic```
+ - Elixir (Phoenix) ```Intermediate```
  - Cloud Functions
  - Lambda
 
 **Front-End:** 
  - JavaScript ```Advanced```
-   - Typescript, React, Angular, jQuery, Ajax, KnockoutJs
+   - Typescript, React, Angular, jQuery, Ajax
  - HTML5 ```Advanced```
  - CSS3 (Sass, LESS, Bootstrap) ```Advanced```
  - SEO
@@ -43,7 +41,6 @@ He usually spends his free time creating games and APPs, in addition to his hobb
  - Postgres ```Intermediate```
  - MongoDb ```Intermediate```
  - Firestore ```Intermediate```
- - CouchDb ```Basic```
  
 **Version Control:** Git, SVN.
 
