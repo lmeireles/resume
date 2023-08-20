@@ -59,7 +59,10 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 ## PROFESSIONAL INFO
 
 
- **Jul/2021 - Present - FullStack Labs:** Sr Full Stack Engineer<br/>
+ **Aug/2023 - Present - Deeded:** Software Engineer<br/>
+ **Description:** Development and support of the platform. Using React on the frontend and PHP + Node.js for the APIs.<br/>
+
+ **Jul/2021 - Aug/2023 - FullStack Labs:** Sr Full Stack Engineer<br/>
  **Description:** Working for clients of FullStack Labs.<br/>
  On Teachers Pay Teachers, a marketplace for teachers to sell content and create content using the Easel platform:<br/>
 
