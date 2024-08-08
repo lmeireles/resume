@@ -1,9 +1,7 @@
 # Luís Carlos Meireles
 
-Brazilian, Married <br/>
-30 Years<br/>
-Vila Maria Alta – São Paulo – SP - Brazil<br/>
-Phone: +55 11 98706-6688 / E-mail: luis.lc93@hotmail.com<br/>
+Alberta – Canada<br/>
+Phone: +1 (403) 401-3776 / E-mail: luis.lc93@hotmail.com<br/>
 
 ## ABOUT LUÍS
 
