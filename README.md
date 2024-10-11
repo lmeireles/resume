@@ -57,8 +57,12 @@ He usually spends his free time creating games and APPs, in addition to his hobb
 ## PROFESSIONAL INFO
 
 
- **Aug/2023 - Present - Deeded:** Software Engineer<br/>
- **Description:** Development and support of the platform. Using React on the frontend and PHP + Node.js for the APIs.<br/>
+ **Sep/2024 - Present - RetreatsAndVenues:** Sr. Software Engineer<br/>
+ **Description:** Development and creating of the new platform. Using React (NextJs) on the frontend and PHP + Node.js (NestJS) for the APIs.<br/>
+ 
+ **Aug/2023 - Sep/2024 - Deeded:** Sr. Software Engineer<br/>
+ **Description:** Development and support of the platform.<br/>
+ Designed and developed the new customer portal using React and Laravel, event-based email notifications with SendGrid, multiple API integrations with third parties to automate operational workflows such as identity verification and onboarding.
 
  **Jul/2021 - Aug/2023 - FullStack Labs:** Sr Full Stack Engineer<br/>
  **Description:** Working for clients of FullStack Labs.<br/>
