@@ -3,112 +3,163 @@
 Alberta – Canada<br/>
 Phone: +1 (403) 401-3776 / E-mail: luis.lc93@hotmail.com<br/>
 
-## ABOUT LUÍS
+## ABOUT
 
-A Professional who develops since 2011 when he started as a freelancer, interested in new technologies and always open for change. Likes to look for new ways to solve problems and has interest in creating products that can impact society in a positive way.<br/>
-Always looking for growth and synergetic teams that can share and receive knowledge; loves to teach and pass on what he learns.
-He usually spends his free time creating games and APPs, in addition to his hobbies.
+Senior Full Stack Engineer with 13+ years of experience building scalable web, mobile, and cloud-native applications. Passionate about new technologies and always looking for better ways to solve real problems. Currently focused on AI-driven product development, including agentic systems, LLM integrations, and developer tooling with the Model Context Protocol (MCP).
 
-**Mobile:** 
- - React Native ```Advanced```
-   - Hooks, Redux, Redux Saga, Redux Thunk, Styled Components, GraphQl, Forms, Firebase, Storage, Custom bridges, etc..
- - Flutter ```Intermediate```
- - Android (Kotlin, Java) ```Basic```
- 
-**Back-End:** 
- - Node.js ```Advanced```
-   - GraphQl, Next.js, Typescript
- - PHP ```Advanced```
-   - Laravel, Yii2, Codeigniter, Wordpress
- - Ruby ```Intermediate```
-   - Rails, Sinatra
- - Elixir (Phoenix) ```Intermediate```
- - Cloud Functions
- - Lambda
+Experienced in technical leadership, system architecture, and cross-functional collaboration. Enjoys sharing knowledge, mentoring teams, and contributing to products that create positive impact.
 
-**Front-End:** 
- - JavaScript ```Advanced```
-   - Typescript, React, Angular, jQuery, Ajax
- - HTML5 ```Advanced```
- - CSS3 (Sass, LESS, Bootstrap) ```Advanced```
- - SEO
+## SKILLS
 
-**Databases:** 
- - MySql ```Advanced```
- - MariaDb ```Advanced```
- - Postgres ```Intermediate```
- - MongoDb ```Intermediate```
- - Firestore ```Intermediate```
- 
-**Version Control:** Git, SVN.
+**AI & Agentic Development:**
+- LLM integrations (provider-agnostic: OpenAI, Anthropic, etc.)
+- Agentic workflows and AI chat assistant development
+- Model Context Protocol (MCP) server development
+- AI-powered feature design and architecture
 
-**Games:** 
- - Unity3D (C#) ```Intermediate```
- - AS3 ```Basic```
+**Back-End:**
+- Node.js `Advanced`
+  - NestJS, Next.js, GraphQL, TypeScript, REST APIs
+- PHP `Advanced`
+  - Laravel, Yii2, CodeIgniter, WordPress
+- Ruby `Intermediate`
+  - Rails, Sinatra
+- Elixir (Phoenix) `Intermediate`
 
-**Others:** Google Cloud Platform, AWS, Azure, Design Patterns, Project Management.
+**Front-End:**
+- JavaScript / TypeScript `Advanced`
+  - React, Next.js, Angular, Redux, Apollo, jQuery
+- HTML5 `Advanced`
+- CSS3 (Sass, LESS, Bootstrap) `Advanced`
+- SEO
+
+**Mobile:**
+- React Native `Advanced`
+  - Hooks, Redux, Redux Saga, Redux Thunk, Styled Components, GraphQL, Firebase, Custom bridges
+- Flutter `Intermediate`
+- Android (Kotlin, Java) `Basic`
+
+**Cloud & Infrastructure:**
+- AWS `Advanced`
+  - Lambda (AWS CDK), API Gateway, SQS, S3, CloudFront, RDS
+- Terraform `Intermediate`
+- Google Cloud Platform `Intermediate`
+- Azure `Basic`
+- CI/CD pipelines
+
+**Databases:**
+- MySQL `Advanced`
+- MariaDB `Advanced`
+- PostgreSQL `Intermediate`
+- MongoDB `Intermediate`
+- Redis `Intermediate`
+- Firestore `Intermediate`
+
+**Others:** Git, SVN, Design Patterns, Project Management, Scrum.
+
+**Games:**
+- Unity3D (C#) `Intermediate`
+- AS3 `Basic`
 
 ## EDUCATION
 
- - Bachelor of Computer Science – Universidade Nove de Julho - Jan 2011 - Dec 2014
- - Systems Development Technician – ETEC Horácio Augusto da Silveira - São Paulo – 06/2009 to 12/2010 
- - English – Advanced (CNA – 4 years)  
+- Bachelor of Computer Science – Universidade Nove de Julho – Jan 2011 to Dec 2014
+- Systems Development Technician – ETEC Horácio Augusto da Silveira – São Paulo – Jun 2009 to Dec 2010
+- English – Advanced (CNA – 4 years)
 
-## PROFESSIONAL INFO
+## PROFESSIONAL EXPERIENCE
 
+**Sep/2024 – Present – RetreatsAndVenues:** Sr. Software Engineer<br/>
+**Description:** Leading the design and development of a new platform for retreat and venue discovery and booking. Playing a key architectural role across backend services, infrastructure, and AI-powered features.
 
- **Sep/2024 - Present - RetreatsAndVenues:** Sr. Software Engineer<br/>
- **Description:** Development and creating of the new platform. Using React (NextJs) on the frontend and PHP + Node.js (NestJS) for the APIs.<br/>
- 
- **Aug/2023 - Sep/2024 - Deeded:** Sr. Software Engineer<br/>
- **Description:** Development and support of the platform.<br/>
- Designed and developed the new customer portal using React and Laravel, event-based email notifications with SendGrid, multiple API integrations with third parties to automate operational workflows such as identity verification and onboarding.
+Key contributions:
+- **AI Chat Assistant:** Designed and built a provider-agnostic AI chat assistant supporting multiple LLM providers (OpenAI, Anthropic, etc.), enabling flexible model switching without application-layer changes.
+- **MCP Server:** Developed a custom Model Context Protocol (MCP) server to expose structured tools and data sources to the AI assistant, enabling agentic capabilities such as venue search, availability queries, and booking workflows.
+- **Flight Planner:** Architected and implemented a flight planning feature integrating third-party travel APIs to suggest flights based on retreat locations and user preferences.
+- **Platform Architecture:** Designed the overall service architecture including API layer, async processing, and data flow. Built NestJS microservices with GraphQL APIs consumed by a Next.js frontend.
+- **Infrastructure:** Set up and managed cloud infrastructure using AWS services (Lambda via AWS CDK, API Gateway, SQS, S3), Terraform for provisioned resources, and Redis for job queuing and caching.
+- **Stack:** NestJS · Next.js · GraphQL · TypeScript · AWS (CDK, Lambda, SQS) · Terraform · Redis · PostgreSQL
 
- **Jul/2021 - Aug/2023 - FullStack Labs:** Sr Full Stack Engineer<br/>
- **Description:** Working for clients of FullStack Labs.<br/>
- On Teachers Pay Teachers, a marketplace for teachers to sell content and create content using the Easel platform:<br/>
+---
 
- Support of teachers pay teachers Easel platform.<br/>
- Implementing new functionalities to the Easel platform and helping improving performance on the backend<br/>
- Lots of frontend implementations using canvas<br/>
- On the frontend we use React, Typescript, Redux, Apollo.js<br/>
- On the backend Node, Next.js, Graphql, Postgres<br/>
- AWS for the infra<br/>
+**Aug/2023 – Sep/2024 – Deeded:** Sr. Software Engineer<br/>
+**Description:** Development and support of a real estate transaction platform.
 
- **Mar/2020 - Jul/2021 - Nash:** Sr Full Stack Engineer<br/>
- **Description:** Development and support of the crypto mobile application Nash.<br/>
- Work together with the team using ReactNative and some other native modules to build and maintain the application with high security standards and always focusing on the best performance and experience for end users.
+Key contributions:
+- Designed and developed a new customer portal using React and Laravel.
+- Implemented event-based email notification system with SendGrid.
+- Built multiple API integrations with third-party services to automate operational workflows such as identity verification and customer onboarding.
 
- **Oct/2018 - Mar/2020 - Abril:** Tech Lead / Full Stack Developer<br/>
- **Description:** Development and support of the GoRead Mobile and Web platform applications.<br/>
- The mobile application needed to be created again from scratch and, for that I was choose to do all the Technical leadership, task scouting and architecture for the new app version. In the new mobile app we used React Native. The application has more than 500 thousands downloads of magazines per month, and it's API is used by other Applications in the company, accounting more than 80 million requests/month, which requires an high availability architecture,  we are using AWS for our infrastructure and CI/CD techniques.<br/>
- Using Ruby (Rails and Sinatra) for the former APIs and Node.js for the new proxy created for the app; Html5, CSS3, Angular and Rails for the web application.<br/>
- 
- **Feb/2018 - Oct/2018 - Affinibox:** Full Stack Developer<br/>
- **Description:** Development and support of the WhiteLabel platform, using AWS, Laravel for the APIs, React for the web application and React Native for creating custom applications for the platform's various clients.<br/>
+---
 
- **Jun/2016 - Feb/2018 - MoovenConsulting:** Tech Lead / Full Stack Developer<br/>
- **Description:** Technical leadership, task scouting, scrum.<br/>
-Analysis, architecture, development and maintenance of mobile applications, websites and mobile applications using React, ReactNative, Ionic 2+, Angular 2+, Node, PHP (Laravel, Yii2, Wordpress), Ruby (Ruby on Rails), MongoDb, MySql.<br/>
- **Some Clients:** Hyundai, RaiaDrogasil, Marisa, Labedu, Música Colaborativa...
+**Jul/2021 – Aug/2023 – FullStack Labs:** Sr. Full Stack Engineer<br/>
+**Description:** Contracted to work with FullStack Labs' client Teachers Pay Teachers, a marketplace for teachers to sell and create content via the Easel platform.
 
- **Jan/2016 - Jun/2016 - G&P:** Developer<br/>
- **Description:** Analysis, architecture and development of web systems for the São Paulo government based on .NET, Oracle, KnockoutJs, Unity3D and webservices.
+Key contributions:
+- Maintained and extended the Easel content creation platform.
+- Implemented new features on the frontend using React, TypeScript, Redux, and Apollo, including complex canvas-based interactions.
+- Improved backend performance and implemented new endpoints using Node.js, Next.js, GraphQL, and PostgreSQL.
+- Worked with AWS infrastructure for deployment and scaling.
 
- **Dez/2013 – Dez/2015 – Agência Engine:** Full Stack Developer<br/>
- **Description:** Analysis, architecture, development and maintenance of websites and applications using PHP (Wordpress, Yii2, CodeIgniter), Node, jQuery, CSS3, HTML5 and creation of mobile applications using JAVA (Android) and Ionic (Multiplatform).<br/>
- **Some Clients:** Microsoft Brasil, Plano&Plano, Cyrela, SkipHop, Ergobaby, Danone...
-  
- **Oct/2011 – Nov/2013 – PRODAM:** Intern<br/>
- **Description:** Assist instructors in the classroom with the administration of IT courses and assist in the maintenance of the EAD system.
+---
 
- **Freelancer - since 2011:**<br/>
- **Description:** Started my career first as a freelancer and never stopped coding even if its for myself. 
-Development of Mobile Applications, Applications and Web Systems using several technologies such as PHP, Kotlin, Node, Ruby on Rails, WooCommerce, Magento, Ionic2, Agular2, React and React Native.<br/>
- **Some Clients:** Movida, MoovenConsulting, Plano&Plano, web stores, startups aplications...
+**Mar/2020 – Jul/2021 – Nash:** Sr. Full Stack Engineer<br/>
+**Description:** Development and support of the Nash crypto mobile application.
+
+Key contributions:
+- Built and maintained the React Native application with high security and performance standards.
+- Integrated native modules and custom bridges to support cryptographic operations and wallet functionality.
+- Collaborated closely with the team to ensure a reliable and polished experience for end users.
+
+---
+
+**Oct/2018 – Mar/2020 – Abril:** Tech Lead / Full Stack Developer<br/>
+**Description:** Technical leadership for the GoRead mobile and web platform (digital magazine subscription service).
+
+Key contributions:
+- Led the full rebuild of the mobile application from scratch using React Native.
+- Responsible for technical leadership, architecture decisions, and task scouting.
+- The platform serves 500K+ magazine downloads per month; the API handles 80M+ requests/month on a high-availability AWS infrastructure.
+- Used Ruby (Rails, Sinatra) for legacy APIs and Node.js for a new proxy layer.
+- Web application built with HTML5, CSS3, Angular, and Rails.
+- Implemented CI/CD pipelines and AWS-based infrastructure.
+
+---
+
+**Feb/2018 – Oct/2018 – Affinibox:** Full Stack Developer<br/>
+**Description:** Development of a white-label SaaS platform using AWS, Laravel (APIs), React (web), and React Native (custom client apps).
+
+---
+
+**Jun/2016 – Feb/2018 – MoovenConsulting:** Tech Lead / Full Stack Developer<br/>
+**Description:** Technical leadership, task scouting, scrum facilitation, architecture, and development across multiple client projects.
+
+Technologies: React, React Native, Ionic 2+, Angular 2+, Node.js, PHP (Laravel, Yii2, WordPress), Ruby on Rails, MongoDB, MySQL.<br/>
+**Clients include:** Hyundai, RaiaDrogasil, Marisa, Labedu, Música Colaborativa.
+
+---
+
+**Jan/2016 – Jun/2016 – G&P:** Developer<br/>
+**Description:** Analysis, architecture, and development of web systems for the São Paulo state government using .NET, Oracle, KnockoutJS, Unity3D, and web services.
+
+---
+
+**Dec/2013 – Dec/2015 – Agência Engine:** Full Stack Developer<br/>
+**Description:** Development and maintenance of websites and applications using PHP (WordPress, Yii2, CodeIgniter), Node.js, jQuery, CSS3, HTML5, and mobile apps with Java (Android) and Ionic.<br/>
+**Clients include:** Microsoft Brasil, Plano&Plano, Cyrela, SkipHop, Ergobaby, Danone.
+
+---
+
+**Oct/2011 – Nov/2013 – PRODAM:** Intern<br/>
+**Description:** Assisted instructors in IT course administration and contributed to the maintenance of the e-learning (EAD) system.
+
+---
+
+**Freelancer – since 2011:**<br/>
+**Description:** Started as a freelancer and continued building side projects throughout my career. Delivered mobile apps, web systems, and APIs using PHP, Kotlin, Node.js, Ruby on Rails, WooCommerce, Ionic, Angular, React, and React Native.<br/>
+**Clients include:** Movida, MoovenConsulting, Plano&Plano, various startups and e-commerce stores.
 
 ## ADDITIONAL INFO
 
- - **Scientific Research:** Research using artificial intelligence to predict possible diseases in the patient's heart.
- - **Scientific Research:** Creation of a game to help children with autism to develop motor coordination.
-
+- **Scientific Research:** Applied artificial intelligence to predict cardiac disease risk from patient data.
+- **Scientific Research:** Developed a game to assist children with autism in building motor coordination skills.
