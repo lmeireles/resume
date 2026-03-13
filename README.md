@@ -5,7 +5,7 @@ Phone: +1 (403) 401-3776 / E-mail: luis.lc93@hotmail.com<br/>
 
 ## ABOUT
 
-Senior Full Stack Engineer with 13+ years of experience building scalable web, mobile, and cloud-native applications. Passionate about new technologies and always looking for better ways to solve real problems. Currently focused on AI-driven product development, including agentic systems, LLM integrations, and developer tooling with the Model Context Protocol (MCP).
+Product-focused Senior Full Stack Engineer with 13+ years of experience building scalable web, mobile, and cloud-native applications. Passionate about new technologies and always looking for better ways to solve real problems. Driven by the impact of what gets shipped — not just the code behind it. Currently focused on AI-driven product development, including agentic systems, LLM integrations, and developer tooling with the Model Context Protocol (MCP).
 
 Experienced in technical leadership, system architecture, and cross-functional collaboration. Enjoys sharing knowledge, mentoring teams, and contributing to products that create positive impact.
 
