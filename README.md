@@ -70,15 +70,15 @@ Experienced in technical leadership, system architecture, and cross-functional c
 ## PROFESSIONAL EXPERIENCE
 
 **Sep/2024 – Present – RetreatsAndVenues:** Sr. Software Engineer<br/>
-**Description:** Leading the design and development of a new platform for retreat and venue discovery and booking. Playing a key architectural role across backend services, infrastructure, and AI-powered features.
+**Description:** Development of the platform. Playing architectural and development role across backend services, infrastructure, and features.
 
 Key contributions:
-- **AI Chat Assistant:** Designed and built a provider-agnostic AI chat assistant supporting multiple LLM providers (OpenAI, Anthropic, etc.), enabling flexible model switching without application-layer changes.
-- **MCP Server:** Developed a custom Model Context Protocol (MCP) server to expose structured tools and data sources to the AI assistant, enabling agentic capabilities such as venue search, availability queries, and booking workflows.
+- **AI Chat Assistant:** Designed and built a provider-agnostic AI chat assistant supporting multiple LLM providers (OpenAI, Anthropic, etc.), enabling flexible model switching without application-layer changes and interactive responses.
+- **MCP Server:** Developed a custom Model Context Protocol (MCP) server to expose structured tools and data sources to the AI assistant, enabling agentic capabilities such as venue search.
 - **Flight Planner:** Architected and implemented a flight planning feature integrating third-party travel APIs to suggest flights based on retreat locations and user preferences.
-- **Platform Architecture:** Designed the overall service architecture including API layer, async processing, and data flow. Built NestJS microservices with GraphQL APIs consumed by a Next.js frontend.
-- **Infrastructure:** Set up and managed cloud infrastructure using AWS services (Lambda via AWS CDK, API Gateway, SQS, S3), Terraform for provisioned resources, and Redis for job queuing and caching.
-- **Stack:** NestJS · Next.js · GraphQL · TypeScript · AWS (CDK, Lambda, SQS) · Terraform · Redis · PostgreSQL
+- **Platform Architecture:** Designed the overall backend architecture including API layer, async processing, and data flow. Built NestJS microservices with GraphQL APIs consumed by a Next.js frontend.
+- **Infrastructure:** Managed cloud infrastructure using AWS services (Lambda via AWS CDK, API Gateway, SQS, S3), Terraform for provisioned resources, and Redis for job queuing and caching.
+- **Stack:** NestJS · Next.js · GraphQL · TypeScript · AWS (CDK, Lambda, SQS) · Terraform · Redis
 
 ---
 
@@ -86,7 +86,7 @@ Key contributions:
 **Description:** Development and support of a real estate transaction platform.
 
 Key contributions:
-- Designed and developed a new customer portal using React and Laravel.
+- Developed customer portal using React and Laravel.
 - Implemented event-based email notification system with SendGrid.
 - Built multiple API integrations with third-party services to automate operational workflows such as identity verification and customer onboarding.
 
